@@ -1,5 +1,5 @@
 {
-  "name": "DamienDonuts/Bitly",
+  "name": "damiendonuts/bitly",
   "description": "Simple PHP Wrapper for Bitly API",
   "version": "0.1",
   "type": "library",
