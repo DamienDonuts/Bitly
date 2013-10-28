@@ -1,0 +1,18 @@
+{
+  "name": "DamienDonuts/Bitly",
+  "description": "Simple PHP Wrapper for Bitly API",
+  "version": "0.1",
+  "type": "library",
+  "keywords": ["Bitly", "PHP", "API"],
+  "homepage": "https://github.com/DamienDonuts/Bitly",
+  "license": "GNU Public License",
+  "authors": [
+    {
+      "name": "Damien Donuts",
+      "homepage": "https://github.com/DamienDonuts/Bitly"
+    }
+  ],
+  "autoload": {
+    "files": ["bitly.php"]
+  }
+}
